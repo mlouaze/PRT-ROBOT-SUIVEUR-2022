@@ -59,4 +59,3 @@ Pour compiler et être lancé, le programme de commande à distance nécessite l
 
 * Présentation_PRT_6_bin_2.pptx, notre présentation PowerPoint utilisé pendant la soutenance
 * Rapport_PRT_6_bin_2.pdf, notre compte rendu final du projet
-* Video_Robot.mp4, vidéo du robot en fonctionnement
