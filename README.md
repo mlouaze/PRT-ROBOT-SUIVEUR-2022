@@ -27,7 +27,7 @@
 * Fichiers moteur.cpp et moteur.hpp qui contiennent la classe de gestion des deux moteurs 
 * Fichier types.h qui contient la redefinition de plusieurs types
 	
-Pour être compilé et envoyé sur le robot, on doit installer les librairies ESP32 (cf [](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/))
+Pour être compilé et envoyé sur le robot, on doit installer les librairies ESP32 (cf [(https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/))
 
 ----
 
