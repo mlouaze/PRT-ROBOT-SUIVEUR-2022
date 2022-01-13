@@ -1,4 +1,4 @@
-# Le dossier "Rendu PRT" contient les sous dossiers et fichiers suivants :
+# Le dossier contient les sous dossiers et fichiers suivants :
 
 * Simulations Matlab
 * Programme Arduino
