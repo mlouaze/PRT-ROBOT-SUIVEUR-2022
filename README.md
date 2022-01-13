@@ -33,7 +33,7 @@ Pour être compilé et envoyé sur le robot, on doit installer les librairies ES
 
 **Programme Commande à distance**
 
-Pour compiler et être lancé, le programme de commande à distance nécessite l'installation du module QtCharts Module (cf pour windows : [](https://stackoverflow.com/questions/42867557/how-to-install-qtcharts-on-windows) et pour linux ```sudo apt install libqt5charts5-dev```)
+Pour compiler et être lancé, le programme de commande à distance nécessite l'installation du module QtCharts Module (cf pour windows : [(https://stackoverflow.com/questions/42867557/how-to-install-qtcharts-on-windows)](https://stackoverflow.com/questions/42867557/how-to-install-qtcharts-on-windows) et pour linux ```sudo apt install libqt5charts5-dev```)
 
 * Fichier main.cpp, le main du programme
 * Fichiers mainwindow.ui, mainwindow.cpp et mainwindow.hpp, la classe de l'affichage de la fenêtre
